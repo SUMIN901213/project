@@ -1,24 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@hyungjin099 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-1
-00SUMIN901213/project
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-project/.gitignore
-@SUMIN901213 SUMIN901213 Update .gitignore
-d2fa019 18 hours ago
-124 lines (92 sloc)  1.68 KB
-  
 # Created by https://www.gitignore.io/api/java,windows,eclipse
 # Edit at https://www.gitignore.io/?templates=java,windows,eclipse
 
