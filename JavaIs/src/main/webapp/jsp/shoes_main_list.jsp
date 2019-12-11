@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:forward page="shoesMainList.do"></jsp:forward>
+	메인화면
 </body>
 </html>
